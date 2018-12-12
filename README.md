@@ -7,7 +7,7 @@
 - github : https://github.com/leeimma
  <br /> <br />
  
-경력
+# 회사 프로젝트
 ### 에스티에이엠
 * 2017.04 ~ 2018.12
  <br /> <br />
