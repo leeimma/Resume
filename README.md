@@ -1,4 +1,4 @@
-# ReadME
+# Resume
 
 이민아 Lee Min Ah
 
