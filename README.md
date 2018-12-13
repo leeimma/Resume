@@ -18,7 +18,7 @@
 
 
 ### 신세계백화점 워킹마일리지 이벤트 페이지
-<img src="image/working/01_main.PNG" width="180"/> <img src="image/working/01_sub.PNG" width="180"/> <img src="image/working/02_sub.PNG" width="180"/> <img src="image/working/03_sub.PNG" width="180"/> <img src="image/working/04_sub.PNG" width="180"/> 
+<img src="image/working/00_sub.PNG" width="180"/> <img src="image/working/01_sub.PNG" width="180"/> <img src="image/working/02_sub.PNG" width="180"/> <img src="image/working/03_sub.PNG" width="180"/> <img src="image/working/04_sub.PNG" width="180"/> 
 
 
 ### 메가박스 영사 제어
