@@ -14,8 +14,11 @@
  
 # 회사 프로젝트
 ### 아르페 브랜드 페이지
-<div>
-<img src="image/artpe/01_main.jpg" width="160"/> <img src="image/artpe/01_sub.jpg" width="160"/> <img src="image/artpe/02_sub.jpg" width="160"/> <img src="image/artpe/03_sub.jpg" width="160"/>
+<div style="max-height: 350px; overflow: scroll;">
+ <img src="image/artpe/01_main.jpg" width="160"/> 
+ <img src="image/artpe/01_sub.jpg" width="160"/> 
+ <img src="image/artpe/02_sub.jpg" width="160"/> 
+ <img src="image/artpe/03_sub.jpg" width="160"/>
 </div>
 
 
