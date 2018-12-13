@@ -32,7 +32,7 @@
 
 ### 마사회 SMS 서비스 
  - 개발 기간 : 2017.07 ~ 2017.08
- - 담당 업무 : 마사회 서버 api 개발 및 안드로이드 연동
+ - 담당 업무 : 마사회 서버와 안드로이드 연동
  
 <img src="image/sms/01_main.PNG" width="160"/> <img src="image/sms/02_main.PNG" width="160"/> 
 
