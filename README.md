@@ -9,7 +9,7 @@
  
 # 경력
 ### 에스티에이엠
-* 2017.02 ~ 2018.12
+* 2017.02 ~
  <br /> <br />
  
 # 회사 프로젝트
@@ -21,6 +21,9 @@
 <img src="image/artpe/01_main.jpg" width="180"/> <img src="image/artpe/02_sub.jpg" width="180"/> <img src="image/artpe/03_sub.jpg" width="180"/> 
 
 ### 레오버넷 
+ - 개발 기간 : 2018.08 ~
+ - 담당 업무 : 상품 상세페이지 퍼블리싱
+ 
 <img src="image/leoburnett/20181123_11st_mobile.jpg" width="180" height="350"/>
  <br /> <br />
  
@@ -41,7 +44,6 @@
  
  
 ## 웹페이지
-
 ### 메가박스 극장관리시스템
 
 ### 삼성 이벤트 페이지(모바일)
