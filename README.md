@@ -14,10 +14,12 @@
  
 # 회사 프로젝트
 ### 아르페 브랜드 퍼블리싱
- <img src="image/artpe/01_main.jpg" width="160"/> 
+ <img src="image/artpe/01_main.jpg" width="180"/> 
 
 
 ### 신세계백화점 워킹마일리지 이벤트 페이지
+<img src="image/working/01_main.PNG" width="180"/> 
+
 
 ### 메가박스 영사 제어
 
