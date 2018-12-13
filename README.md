@@ -13,7 +13,7 @@
  <br /> <br />
  
 # 회사 프로젝트
-### 아르페 브랜드 페이지
+### 아르페 브랜드 퍼블리싱
  <img src="image/artpe/01_main.jpg" width="160"/> 
 
 
