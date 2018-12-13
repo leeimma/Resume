@@ -14,10 +14,7 @@
  
 # 회사 프로젝트
 ### 아르페 브랜드 페이지
-<div style="height: 350px; overflow: hidden;">
- <img src="image/artpe/01_main.jpg" style="height: 350px; overflow: hidden; width : 160px;" /> 
-
-</div>
+ <img src="image/artpe/01_main.jpg" width="160"/> 
 
 
 ### 신세계백화점 워킹마일리지 이벤트 페이지
