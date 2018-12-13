@@ -21,6 +21,7 @@
 <img src="image/artpe/01_main.jpg" width="180"/> <img src="image/artpe/02_sub.jpg" width="180"/> <img src="image/artpe/03_sub.jpg" width="180"/> 
 
 ### 레오버넷 
+<img src="image/leoburnett/20181123_11st_mobile.jpg" width="180" height="350"/>
  <br /> <br />
  
 ## 안드로이드
