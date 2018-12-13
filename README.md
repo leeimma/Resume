@@ -26,7 +26,7 @@
 ## 안드로이드
 ### 신세계백화점 워킹마일리지 이벤트 페이지
  - 개발 기간 : 2017.06 ~ 2017.07
- - 담당 업무 : working Mileage - server api 구현 및 연동
+ - 담당 업무 : working Mileage - server api 개발 및 연동
  
 <img src="image/working/00_sub.PNG" width="160"/> <img src="image/working/01_sub.PNG" width="160"/> <img src="image/working/02_sub.PNG" width="160"/> <img src="image/working/03_sub.PNG" width="160"/> <img src="image/working/04_sub.PNG" width="160"/> 
 
@@ -34,8 +34,11 @@
  <br /> <br />
  
 ## 웹페이지
-### 메가박스 영사 제어
 
+### 메가박스 극장관리시스템
 
+### 삼성 이벤트 페이지(모바일)
+
+### 메가박스 영화 NOC (A. Drive DCM)
 
 
