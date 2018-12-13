@@ -15,6 +15,7 @@
 # 회사 프로젝트
 ## 퍼블리싱
 ### 아르페 브랜드 퍼블리싱
+개발 기간 : 2017.03
  <img src="image/artpe/01_main.jpg" width="180"/> <img src="image/artpe/02_sub.jpg" width="180"/> <img src="image/artpe/03_sub.jpg" width="180"/> 
 
 ### 레오버넷 
