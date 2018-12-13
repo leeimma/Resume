@@ -14,7 +14,7 @@
  
 # 회사 프로젝트
 ### 아르페 브랜드 퍼블리싱
- <img src="image/artpe/01_main.jpg" width="180"/> 
+ <img src="image/artpe/01_main.jpg" width="180"/> <img src="image/artpe/02_sub.jpg" width="180"/> <img src="image/artpe/03_sub.jpg" width="180"/> 
 
 
 ### 신세계백화점 워킹마일리지 이벤트 페이지
