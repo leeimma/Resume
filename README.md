@@ -14,11 +14,9 @@
  
 # 회사 프로젝트
 ### 아르페 브랜드 페이지
-<div style="max-height: 350px  !important; overflow: scroll  !important;">
- <img src="image/artpe/01_main.jpg" width="160"/> 
- <img src="image/artpe/01_sub.jpg" width="160"/> 
- <img src="image/artpe/02_sub.jpg" width="160"/> 
- <img src="image/artpe/03_sub.jpg" width="160"/>
+<div style="height: 350px; overflow: hidden;">
+ <img src="image/artpe/01_main.jpg" style="height: 350px; overflow: hidden; width : 160px;" /> 
+
 </div>
 
 
