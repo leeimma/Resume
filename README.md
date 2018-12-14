@@ -47,7 +47,7 @@
 ### 메가박스 극장관리시스템
 
 ### 삼성 이벤트 페이지(모바일 페이지) 
-<img src="image/S9EVENT/01_main.PNG" width="160"/> <img src="image/S9EVENT/02_sub.PNG" width="160"/> <img src="image/S9EVENT/02_sub.PNG" width="160"/> <img src="image/S9EVENT/04_sub.PNG" width="160"/> <img src="image/S9EVENT/05_sub.PNG" width="160"/>
+<img src="image/S9EVENT/01_main.PNG" width="160"/> <img src="image/S9EVENT/02_sub.PNG" width="160"/> <img src="image/S9EVENT/03_sub.PNG" width="160"/> <img src="image/S9EVENT/04_sub.PNG" width="160"/> <img src="image/S9EVENT/05_sub.PNG" width="160"/>
  <br /> <br />
  
 ### 메가박스 영화 NOC (A. Drive DCM)
