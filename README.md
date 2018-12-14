@@ -18,7 +18,7 @@
  - 개발 기간 : 2017.03
  - 담당 업무 : 아르페 몰 홈페이지 퍼블리싱
  
-<img src="image/artpe/01_main.jpg" width="180"/> <img src="image/artpe/02_sub.jpg" width="180"/> <img src="image/artpe/03_sub.jpg" width="180"/> 
+<img src="image/artpe/01_main.jpg" width="160"/> <img src="image/artpe/02_sub.jpg" width="160"/> <img src="image/artpe/03_sub.jpg" width="160"/> 
 
 ### 레오버넷 
  - 개발 기간 : 2018.08 ~
