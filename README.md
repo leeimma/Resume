@@ -38,7 +38,7 @@
 
 ### 삼성 이벤트 페이지(모바일 페이지) 
  - 개발 기간 : 2018.02 ~ 2018.03
- - 담당 업무 : 이벤트 페이지 퍼블리싱 및 기능 로직 구현
+ - 담당 업무 : 이벤트 페이지 퍼블리싱 및 개발
  
 <img src="image/S9EVENT/01_main.PNG" width="160"/> <img src="image/S9EVENT/02_sub.PNG" width="160"/> <img src="image/S9EVENT/03_sub.PNG" width="160"/> <img src="image/S9EVENT/04_sub.PNG" width="160"/> <img src="image/S9EVENT/05_sub.PNG" width="160"/>
  
