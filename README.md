@@ -20,7 +20,7 @@
  
 <img src="image/artpe/01_main.jpg" width="160"/> <img src="image/artpe/02_sub.jpg" width="160"/> <img src="image/artpe/03_sub.jpg" width="160"/> 
 
-### 레오버넷 
+### <a href="image/leoburnett/20181123_11st_mobile.jpg" >레오버넷 </a>
  - 개발 기간 : 2018.08 ~
  - 담당 업무 : 상품 상세페이지 퍼블리싱
  
