@@ -71,5 +71,17 @@
 ### <a href="image/leoburnett/20181123_11st_mobile.jpg" target="_blank"> 레오버넷 </a>
  - 개발 기간 : 2018.08 ~
  - 담당 업무 : 상품 상세페이지 퍼블리싱
-
- <br /> <br />
+ 
+<br /> <br />
+## 보유기술 및 사용가능 라이브러리
+- java
+- javascript
+- jquery
+- mysql, mariadb
+- oracle
+- ajax
+- mvc
+- Sqlite
+- bootstrap
+- android
+- svn
