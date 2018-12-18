@@ -35,12 +35,14 @@
 ### 메가박스 극장관리시스템
  - 개발 기간 : 2017.03 ~
  - 담당 업무 : 고도화 및 유지보수
+ 
+ <img src="image/tms/01_main.png" width="240"/> <img src="image/tms/02_sub.png" width="240"/> <img src="image/tms/03_sub.png" width="240"/> <img src="image/tms/06_sub.png" width="240"/> <img src="image/tms/07_sub.png" width="240"/> <img src="image/tms/08_sub.png" width="240"/> 
 
 ### 삼성 이벤트 페이지(모바일 페이지) 
  - 개발 기간 : 2018.02 ~ 2018.03
  - 담당 업무 : 이벤트 페이지 퍼블리싱 및 개발
  
-<img src="image/S9EVENT/01_main.PNG" width="160"/> <img src="image/S9EVENT/02_sub.PNG" width="160"/> <img src="image/S9EVENT/03_sub.PNG" width="160"/> <img src="image/S9EVENT/04_sub.PNG" width="160"/> <img src="image/S9EVENT/05_sub.PNG" width="160"/>
+<img src="image/S9EVENT/01_main.PNG" width="160"/> <img src="image/S9EVENT/02_sub.PNG" width="160"/> <img src="image/S9EVENT/03_sub.PNG" width="160"/> <img src="image/S9EVENT/04_sub.PNG" width="160"/> <img src="image/S9EVENT/05_sub.PNG" width="160"/> 
  
 ### 메가박스 영화 NOC (A. Drive DCM)
  - 개발 기간 : 2017.08 ~
