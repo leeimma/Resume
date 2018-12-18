@@ -18,7 +18,8 @@
  - 개발 기간 : 2017.02 ~ 2017.03
  - 담당 업무 : 관리자 페이지 
  - 업무 내용 : 다음에디터 적용
-  
+ 
+<img src="image/stam/02_main.png" width="240"/> <img src="image/stam/02_sub.png" width="240"/> <img src="image/stam/04_sub.png" width="240"/>
 ### 메가박스 극장관리시스템
  - 개발 기간 : 2017.03 ~
  - 담당 업무 : 고도화 및 유지보수
