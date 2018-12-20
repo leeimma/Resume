@@ -36,6 +36,8 @@
  - 개발 기술 : java, javascript, 자체 프레임워크
 
  <img src="image/mnoc/01_main.png" width="240"/> <img src="image/mnoc/03_sub.png" width="240"/> <img src="image/mnoc/04_sub.png" width="240"/> <img src="image/mnoc/05_sub.png" width="240"/> <img src="image/mnoc/06_sub.png" width="240"/> <img src="image/mnoc/07_sub.png" width="240"/>
+ <BR/>
+  <img src="image/mnoc/01_main.png" width="240"/> <img src="image/mnoc/07_sub.png" width="240"/> <img src="image/mnoc/04_sub.png" width="240"/> <img src="image/mnoc/03_sub.png" width="240"/> <img src="image/mnoc/05_sub.png" width="240"/> <img src="image/mnoc/06_sub.png" width="240"/> 
  
 ### 삼성 이벤트 페이지(모바일 페이지) 
  - 개발 기간 : 2018.02 ~ 2018.03
@@ -94,3 +96,5 @@
 - bootstrap
 - android
 - svn
+- SPRING
+- MyBati
