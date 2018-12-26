@@ -74,13 +74,13 @@
 ## 퍼블리싱
 ### <a href="image/artpe/01_main.jpg" target="_blank"> 아르페 브랜드 퍼블리싱 </a>
  - 개발 기간 : 2017.03
- - 개발 기술 : java, javascript, jquery, css
+ - 개발 기술 : html, javascript, jquery, css, bootstrap
  - 담당 업무 : 아르페 몰 홈페이지 퍼블리싱
 
 ### <a href="image/leoburnett/20181123_11st_mobile.jpg" target="_blank"> 레오버넷 </a>
  - 개발 기간 : 2018.08 ~
  - 담당 업무 : 상품 상세페이지 퍼블리싱
- - 개발 기술 : java, javascript, jquery, css
+ - 개발 기술 : html, javascript, css
  
 <br /> <br />
 ## 보유기술 및 사용가능 라이브러리
