@@ -18,14 +18,14 @@
  - 개발 기간 : 2017.02 ~ 2017.03
  - 담당 업무 : 관리자 페이지 
  - 업무 내용 : 다음에디터 적용
- - 개발 기술 : java, javascript, bootstrap, jquery
+ - 개발 기술 : java, javascript, bootstrap, jquery, oracle, 우분투
  
 <img src="image/stam/02_main.png" width="240"/> <img src="image/stam/02_sub.png" width="240"/> <img src="image/stam/04_sub.png" width="240"/>
 ### 메가박스 극장관리시스템
  - 개발 기간 : 2017.03 ~
  - 담당 업무 : 고도화 및 유지보수
  - 업무 내용 : 장비 연동 및 제어, 램프 필터 발주 및 입출고 관리, 데이터 연동 및 실시간 모니터링 등 영사장비통합관리
- - 개발 기술 : java, javascript, jqeury, angular
+ - 개발 기술 : java, javascript, jqeury, angular, spring, mariadb(mysql 마이그레이션)
  
  <img src="image/tms/01_main.png" width="240"/> <img src="image/tms/02_sub.png" width="240"/> <img src="image/tms/03_sub.png" width="240"/> <img src="image/tms/06_sub.png" width="240"/> <img src="image/tms/07_sub.png" width="240"/> <img src="image/tms/08_sub.png" width="240"/> 
 
@@ -33,7 +33,7 @@
  - 개발 기간 : 2017.08 ~
  - 담당 업무 : 기능 추가 및 유지보수
  - 업무 내용 : 모니터링 화면 기능 추가 및 램프 필터 발주 관리 시스템 구축
- - 개발 기술 : java, javascript, 자체 프레임워크
+ - 개발 기술 : java, javascript, 자체 프레임워크, oracle
 
 
   <img src="image/mnoc/01_main.png" width="240"/> <img src="image/mnoc/07_sub.png" width="240"/> <img src="image/mnoc/04_sub.png" width="240"/> <img src="image/mnoc/03_sub.png" width="240"/> <img src="image/mnoc/05_sub.png" width="240"/> <img src="image/mnoc/06_sub.png" width="240"/> 
