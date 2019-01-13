@@ -96,4 +96,4 @@
 - android
 - svn
 - SPRING
-- MyBati
+- MyBatis
