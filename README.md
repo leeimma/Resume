@@ -23,9 +23,15 @@
 <img src="image/stam/02_main.png" width="240"/> <img src="image/stam/02_sub.png" width="240"/> <img src="image/stam/04_sub.png" width="240"/>
 ### 메가박스 극장관리시스템
  - 개발 기간 : 2017.03 ~
- - 담당 업무 : 고도화 및 유지보수
- - 업무 내용 : 장비 연동 및 제어, 램프 필터 발주 및 입출고 관리, 데이터 연동 및 실시간 모니터링 등 영사장비통합관리
- - 개발 기술 : java, javascript, jqeury, angular, spring, mariadb(mysql 마이그레이션)
+ - 담당 업무 : 메가박스 극장 관리 시스템 고도화 및 유지보수
+ - 업무 내용 : 
+    1. 개발 프로세스 : 자동스케줄 프로세스 정리 및 수정, 이머전시 프로세스 정리 및 수정, shutdown 프로세스 추가, kdm(암호키) 프로세스 수정
+    2. 영사 장비 연동 (영사기(sony,nec,barco,christie,gdc), 프로젝터(sony,nec,barco,christie), 오디오프로세서(ap20,cp850)) 및 제어
+    3. spring batch 정리 및 수정, 추가
+    4. 페이지 추가(램프 필터 발주, 비상연락망, 사운드 제어, 관 
+    5. 설치/삭제 패키징 생성(nsis 사용)
+    장비 연동 및 제어, 램프 필터 발주 및 입출고 관리, 데이터 연동 및 실시간 모니터링 등 영사장비통합관리
+ - 개발 기술 : java(1.8), javascript, spring(4.3.9.RELEASE), mariadb10.2.7(mysql 마이그레이션), logback(1.0.13)
  
  <img src="image/tms/01_main.png" width="240"/> <img src="image/tms/02_sub.png" width="240"/> <img src="image/tms/03_sub.png" width="240"/> <img src="image/tms/06_sub.png" width="240"/> <img src="image/tms/07_sub.png" width="240"/> <img src="image/tms/08_sub.png" width="240"/> 
 
