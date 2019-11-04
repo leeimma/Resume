@@ -93,6 +93,8 @@
   2. 디자인된 내용을 html로 퍼블리싱
   3. pdf를 다른 앱으로 오픈 할수 있도록 개발
   4. 동영상 재생
+  
+  <img src="image/visang/main.jpg" width="160"/>
 
 <br /> <br />
 ## 퍼블리싱
