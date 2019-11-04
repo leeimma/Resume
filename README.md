@@ -87,14 +87,14 @@
 ### 비상 홍보 app 
  - 개발 기간 : 2019.08 ~ 2019.09
  - 개발 기술 : html, javascript, cordova, swiper(lib)
- - 담당 업무 : 비상 국정교과서 홍보앱 개발
+ - 담당 업무 : 비상 국정교과서 홍보앱(태블릿) 개발
  - 업무 내용 : 
   1. html을 오프라인 앱으로 구동
   2. 디자인된 내용을 html로 퍼블리싱
   3. pdf를 다른 앱으로 오픈 할수 있도록 개발
   4. 동영상 재생
   
-  <img src="image/visang/main.jpg" width="160"/>
+  <img src="image/visang/main.jpg" width="240"/>
 
 <br /> <br />
 ## 퍼블리싱
