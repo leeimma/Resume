@@ -28,7 +28,7 @@
  - 업무 내용 : 
     1. 개발 프로세스 : 자동스케줄 프로세스 정리 및 수정, 이머전시 프로세스 정리 및 수정, shutdown 프로세스 추가, kdm(암호키) 프로세스 수정
     2. 영사 장비 연동 (영사기(sony,nec,barco,christie,gdc), 프로젝터(sony,nec,barco,christie), 오디오프로세서(ap20,cp850)) 및 제어
-    3. spring batch 정리 및 
+    3. spring batch 정리 및 추가
     4. 페이지 추가(램프 필터 발주, 비상연락망, 사운드 제어, 지점 관리 페이지)
     5. 설치/삭제 패키징 생성(nsis 사용)
  
@@ -43,6 +43,8 @@
  - 업무 내용 : 
    1. UI 수정(TMS 및 각 지점의 영사 현황 모니터링 기능 추가, 지점 상세 페이지 수정)
    2. 램프 필터 발주 관리 시스템, 시영 정보, 비상연락망, 공지사항, TMS 버전 배포 등 TMS와 연동 하는 페이지 및 기능 추가
+   3. schedule 추가 
+   4. 차세대 api 연동 변경
  
 
   <img src="image/mnoc/01_main.png" width="240"/> <img src="image/mnoc/07_sub.png" width="240"/> <img src="image/mnoc/04_sub.png" width="240"/> <img src="image/mnoc/03_sub.png" width="240"/> <img src="image/mnoc/05_sub.png" width="240"/> <img src="image/mnoc/06_sub.png" width="240"/> 
@@ -89,10 +91,10 @@
  - 개발 기술 : html, javascript, cordova, swiper(lib)
  - 담당 업무 : 비상 국정교과서 홍보앱(태블릿) 개발
  - 업무 내용 : 
-  1. html을 오프라인 앱으로 구동
-  2. 디자인된 내용을 html로 퍼블리싱
-  3. pdf를 다른 앱으로 오픈 할수 있도록 개발
-  4. 동영상 재생
+   1. cordova를 사용하여 만든 오프라인 구동 앱
+   2. html, css, javascript, jquery 등을 사용하여서 오프라인으로 동작가능하도록 개발
+   3. cordova 플러그인을 사용하여 pdf를 다른 앱으로 오픈가능
+   4. 오픈소스 이용하여 터치 이펙트와 비디오 슬라이드 개발(ripple.js, swiper.js 등)
   
   <img src="image/visang/main.jpg" width="240"/>
 
